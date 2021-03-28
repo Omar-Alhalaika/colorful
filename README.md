@@ -1,7 +1,9 @@
 # colorful
 One way to enjoy your favorite color! 
 
+* This project made by Omar Alhalaika.
 
-## `And to keep in touch you can find me on Github:`
+>You can find me on:
 
- [My GitHub account](https://github.com/Omar-Alhalaika)
+* [GitHub](https://github.com/Omar-Alhalaika)
+* [LinkedIn](https://www.linkedin.com/in/omar-alhalaika)
